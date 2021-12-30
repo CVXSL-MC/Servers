@@ -7,4 +7,4 @@ This holds all server information and updates!
 
 ## Current Update
 
-> `1.1.0`
+> `1.1.1`
