@@ -1,10 +1,12 @@
 # Servers
 This holds all server information and updates!
 
-## IP
+## Tesseract
+
+#### IP
 
 > `play.simplynet.xyz`
 
-## Current Update
+#### Current Update
 
-> `1.1.1`
+> `1.2.0`
